@@ -4,5 +4,5 @@ An Assignemnt for Cache Simulation in Java: A cache of size S with CL as the num
 
 3 Java program written that allows loading into cache and searching cache using:
 **1.Direct mapping 
-2.Associative memory
-3.n-way set associative memory** where n is a power of 2.
+   2.Associative memory
+   3.n-way set associative memory** where n is a power of 2.
